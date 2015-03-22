@@ -1,0 +1,27 @@
+-Update 0.1.1---------------------------------------------------------ExplosionsGalore
+-Moved arrow spawn on top of the crossbow model.
+-Fixed arrow fireing being queued.
+-Added new rim shaders, ohh Shiny.
+-Made firing faster, for added fun.
+-Fixed fire animation, now you can see it.
+-added bomb model, for 1000% more fun
+-added bomb texture, makes it look like a bomb
+-preparing for the turkey apocalypse, Gobble Gobble Muther F***ers!
+-added Explosion Particles, TIME FO SO EXPLOSIONS!
+-Update 0.1.2---------------------------------------------------------SuperFriendlyUpdate
+-Started work on multiplayer
+-Added in old script from a game I made awhile ago called sharksgiving
+-added connecting to servers
+-added some basic server browser
+-layed the groundwork for the super server browser
+-add foul words filter making the world more loveing
+-LoveThisGame or I will Loveing Kill you
+-still needs work only catches some of the words on list needs more time
+-added an ugly online lobby need to work on it
+-removed bombs as they need to be ported to controllers and all players
+-added servers to the game for your enjoyment and fun
+-broke servers so you can't play th
+-fixed servers
+-broke servers again
+
+
