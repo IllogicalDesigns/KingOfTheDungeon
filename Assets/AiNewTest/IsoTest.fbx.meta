@@ -103,6 +103,7 @@ ModelImporter:
     100190: brick.019
     100192: brick.020
     100194: brick.021
+    100196: StoneTile
     400000: //RootNode
     400002: Circle
     400004: Plane
@@ -201,6 +202,7 @@ ModelImporter:
     400190: brick.019
     400192: brick.020
     400194: brick.021
+    400196: StoneTile
     2300000: //RootNode
     2300002: Circle
     2300004: Plane
@@ -299,6 +301,7 @@ ModelImporter:
     2300190: brick.019
     2300192: brick.020
     2300194: brick.021
+    2300196: StoneTile
     3300000: //RootNode
     3300002: Circle
     3300004: Plane
@@ -397,6 +400,7 @@ ModelImporter:
     3300190: brick.019
     3300192: brick.020
     3300194: brick.021
+    3300196: StoneTile
     4300000: Circle
     4300002: Plane
     4300004: Cylinder
@@ -494,6 +498,7 @@ ModelImporter:
     4300188: brick.018
     4300190: brick.017
     4300192: brick.016
+    4300194: StoneTile
     6400000: //RootNode
     6400002: Circle
     6400004: Plane
@@ -592,6 +597,7 @@ ModelImporter:
     6400190: brick.019
     6400192: brick.020
     6400194: brick.021
+    6400196: StoneTile
   materials:
     importMaterials: 1
     materialName: 0
